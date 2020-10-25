@@ -1,4 +1,4 @@
 "Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
-"","Login","checks system users","0","1","0","0","0"
-"","Login","checks landing page","1","0","0","0","0"
+"","Login","checks system users","0","0","1","0","0"
 "","Login","enters account","0","0","1","0","0"
+"","Login","checks landing page","1","0","0","0","0"

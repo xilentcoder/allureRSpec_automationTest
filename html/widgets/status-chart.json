@@ -1,31 +1,31 @@
 [ {
-  "uid" : "52e54a1afd605dc3",
+  "uid" : "29db5e75abfbaa44",
   "name" : "checks system users",
   "time" : {
-    "start" : 1603645386712,
-    "stop" : 1603645387079,
-    "duration" : 367
-  },
-  "status" : "broken",
-  "severity" : "critical"
-}, {
-  "uid" : "9aa8d0f5cbae40bd",
-  "name" : "checks landing page",
-  "time" : {
-    "start" : 1603645381452,
-    "stop" : 1603645381838,
-    "duration" : 386
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "9d12acb9c7488514",
-  "name" : "enters account",
-  "time" : {
-    "start" : 1603645381855,
-    "stop" : 1603645386697,
-    "duration" : 4842
+    "start" : 1603665563992,
+    "stop" : 1603665564136,
+    "duration" : 144
   },
   "status" : "passed",
   "severity" : "critical"
+}, {
+  "uid" : "7e4a73a9dd572ea8",
+  "name" : "enters account",
+  "time" : {
+    "start" : 1603665555154,
+    "stop" : 1603665563980,
+    "duration" : 8826
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d8ece1b0de49feff",
+  "name" : "checks landing page",
+  "time" : {
+    "start" : 1603665554046,
+    "stop" : 1603665554899,
+    "duration" : 853
+  },
+  "status" : "failed",
+  "severity" : "normal"
 } ]
