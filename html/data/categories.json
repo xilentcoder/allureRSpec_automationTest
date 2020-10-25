@@ -1,0 +1,47 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected: < 0\n     got:   1",
+      "children" : [ {
+        "name" : "checks landing page",
+        "uid" : "9aa8d0f5cbae40bd",
+        "parentUid" : "dc29b589e357afbfe9c32c96219aa312",
+        "status" : "failed",
+        "time" : {
+          "start" : 1603645381452,
+          "stop" : 1603645381838,
+          "duration" : 386
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dc29b589e357afbfe9c32c96219aa312"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"System Usersd\"}\n  (Session info: chrome=86.0.4240.111)",
+      "children" : [ {
+        "name" : "checks system users",
+        "uid" : "52e54a1afd605dc3",
+        "parentUid" : "bdcd328331b86ce93a94318567757c08",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603645386712,
+          "stop" : 1603645387079,
+          "duration" : 367
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bdcd328331b86ce93a94318567757c08"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

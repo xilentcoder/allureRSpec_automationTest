@@ -1,0 +1,48 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Login",
+    "children" : [ {
+      "name" : "checks landing page",
+      "uid" : "9aa8d0f5cbae40bd",
+      "parentUid" : "1a85855463aca3ea10b8fe0fcb3372b8",
+      "status" : "failed",
+      "time" : {
+        "start" : 1603645381452,
+        "stop" : 1603645381838,
+        "duration" : 386
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "enters account",
+      "uid" : "9d12acb9c7488514",
+      "parentUid" : "1a85855463aca3ea10b8fe0fcb3372b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603645381855,
+        "stop" : 1603645386697,
+        "duration" : 4842
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checks system users",
+      "uid" : "52e54a1afd605dc3",
+      "parentUid" : "1a85855463aca3ea10b8fe0fcb3372b8",
+      "status" : "broken",
+      "time" : {
+        "start" : 1603645386712,
+        "stop" : 1603645387079,
+        "duration" : 367
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1a85855463aca3ea10b8fe0fcb3372b8"
+  } ]
+}

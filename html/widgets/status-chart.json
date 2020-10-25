@@ -1,0 +1,31 @@
+[ {
+  "uid" : "52e54a1afd605dc3",
+  "name" : "checks system users",
+  "time" : {
+    "start" : 1603645386712,
+    "stop" : 1603645387079,
+    "duration" : 367
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "9aa8d0f5cbae40bd",
+  "name" : "checks landing page",
+  "time" : {
+    "start" : 1603645381452,
+    "stop" : 1603645381838,
+    "duration" : 386
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d12acb9c7488514",
+  "name" : "enters account",
+  "time" : {
+    "start" : 1603645381855,
+    "stop" : 1603645386697,
+    "duration" : 4842
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

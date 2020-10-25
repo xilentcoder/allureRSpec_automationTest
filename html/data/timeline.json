@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-8LLJQ9R",
+    "children" : [ {
+      "name" : "19886320",
+      "children" : [ {
+        "name" : "enters account",
+        "uid" : "9d12acb9c7488514",
+        "parentUid" : "0c309ed5a9263adeb8d49dacb636df90",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603645381855,
+          "stop" : 1603645386697,
+          "duration" : 4842
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checks system users",
+        "uid" : "52e54a1afd605dc3",
+        "parentUid" : "0c309ed5a9263adeb8d49dacb636df90",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603645386712,
+          "stop" : 1603645387079,
+          "duration" : 367
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checks landing page",
+        "uid" : "9aa8d0f5cbae40bd",
+        "parentUid" : "0c309ed5a9263adeb8d49dacb636df90",
+        "status" : "failed",
+        "time" : {
+          "start" : 1603645381452,
+          "stop" : 1603645381838,
+          "duration" : 386
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0c309ed5a9263adeb8d49dacb636df90"
+    } ],
+    "uid" : "02ea2fe8296a4d21087fa40939880731"
+  } ]
+}

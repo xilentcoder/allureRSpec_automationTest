@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "spec/test_feature_0",
+    "children" : [ {
+      "name" : "checks landing page",
+      "uid" : "9aa8d0f5cbae40bd",
+      "parentUid" : "1c0d00df55176fac5c89879ad9e3e726",
+      "status" : "failed",
+      "time" : {
+        "start" : 1603645381452,
+        "stop" : 1603645381838,
+        "duration" : 386
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "enters account",
+      "uid" : "9d12acb9c7488514",
+      "parentUid" : "1c0d00df55176fac5c89879ad9e3e726",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603645381855,
+        "stop" : 1603645386697,
+        "duration" : 4842
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checks system users",
+      "uid" : "52e54a1afd605dc3",
+      "parentUid" : "1c0d00df55176fac5c89879ad9e3e726",
+      "status" : "broken",
+      "time" : {
+        "start" : 1603645386712,
+        "stop" : 1603645387079,
+        "duration" : 367
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1c0d00df55176fac5c89879ad9e3e726"
+  } ]
+}

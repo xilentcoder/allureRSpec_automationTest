@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Oct 26 01:03:06 CST 2020","Mon Oct 26 01:03:07 CST 2020","367","","Login","","test_case_1_spec","","checks system users","Location - spec/test_feature_0/test_case_1_spec.rb:33"
+"failed","Mon Oct 26 01:03:01 CST 2020","Mon Oct 26 01:03:01 CST 2020","386","","Login","","test_case_1_spec","","checks landing page","Location - spec/test_feature_0/test_case_1_spec.rb:6"
+"passed","Mon Oct 26 01:03:01 CST 2020","Mon Oct 26 01:03:06 CST 2020","4842","","Login","","test_case_1_spec","","enters account","Location - spec/test_feature_0/test_case_1_spec.rb:16"

@@ -1,0 +1,61 @@
+{
+  "06bdc74c9cef82ec2e0967f9a0d147d3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9aa8d0f5cbae40bd",
+      "status" : "failed",
+      "statusDetails" : "expected: < 0\n     got:   1",
+      "time" : {
+        "start" : 1603645381452,
+        "stop" : 1603645381838,
+        "duration" : 386
+      }
+    } ]
+  },
+  "3999c450dbeb5dc6adf04656b3f32104" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52e54a1afd605dc3",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"System Usersd\"}\n  (Session info: chrome=86.0.4240.111)",
+      "time" : {
+        "start" : 1603645386712,
+        "stop" : 1603645387079,
+        "duration" : 367
+      }
+    } ]
+  },
+  "404f09119d5294ec8f03af092cb1569b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d12acb9c7488514",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603645381855,
+        "stop" : 1603645386697,
+        "duration" : 4842
+      }
+    } ]
+  }
+}
